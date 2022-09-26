@@ -1,6 +1,7 @@
 <h1> Hi there 👋 I'm Susan! <br/><a href="https://github.com/suemnjeri">Python Developer, AWS Cloud Developer</a>, <a href="https://www.linkedin.com/in/suemnjeri/">Data Analyst</a>, <a href="https://suemnjeri.medium.com/">Blogger</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>:construction_worker: Software Development Projects:</h2>
+
 
 - <b>Python Data Analysis</b>
   - [Data analysis and visualization of the Stackoverflow 2020 survey dataset](https://github.com/suemnjeri/stackoverflow2020)</b>
@@ -13,7 +14,7 @@
   - [Refactored a Monolith image-filtering application to Microservices and implemented a CI/CD pipeline using Docker, Kubernetes and Travis Ci](https://github.com/suemnjeri/cd0354-monolith-to-microservices-project)
   - [Deployed a serverless ‘TODO’ application using AWS Lambda and the Serverless framework](https://github.com/suemnjeri/Serverless-app-project-4)
 
-<h2>📺 My Popular Medium Blogs</h2>
+<h2>:open_hands: My Popular Medium Blogs</h2>
 
 - [Lambda Functions with Practical Examples in Python](https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8)
 - [10 Seaborn Visualization Plots for Multivariate Data Analysis in Python](https://towardsdatascience.com/10-must-know-seaborn-functions-for-multivariate-data-analysis-in-python-7ba94847b117)
