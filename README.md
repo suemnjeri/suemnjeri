@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1>Hi, I'm Susan! <br/><a href="https://github.com/suemnjeri">Python Developer, AWS Cloud Developer</a>, <a href="https://www.linkedin.com/in/suemnjeri/">Data Analyst</a>, <a href="https://suemnjeri.medium.com/">Blogger</a></h1>
+<h1> Hi there 👋 I'm Susan! <br/><a href="https://github.com/suemnjeri">Python Developer, AWS Cloud Developer</a>, <a href="https://www.linkedin.com/in/suemnjeri/">Data Analyst</a>, <a href="https://suemnjeri.medium.com/">Blogger</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -14,27 +12,24 @@
 - <b>AWS Cloud Development</b>
   - [Refactored a Monolith image-filtering application to Microservices and implemented a CI/CD pipeline using Docker, Kubernetes and Travis Ci](https://github.com/suemnjeri/cd0354-monolith-to-microservices-project)
   - [Deployed a serverless ‘TODO’ application using AWS Lambda and the Serverless framework](https://github.com/suemnjeri/Serverless-app-project-4)
-  - [Implemented and deployed an Image-filtering Microservice on Amazon Elactic Bean Stalk](https://github.com/suemnjeri/cd0354-monolith-to-microservices-project)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 My Popular Medium Blogs</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Lambda Functions with Practical Examples in Python](https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8)
+- [10 Seaborn Visualization Plots for Multivariate Data Analysis in Python](https://towardsdatascience.com/10-must-know-seaborn-functions-for-multivariate-data-analysis-in-python-7ba94847b117)
+- [How to Filter a Pandas DataFrame by a Partial String or Pattern](https://towardsdatascience.com/8-ways-to-filter-a-pandas-dataframe-by-a-partial-string-or-pattern-49f43279c50f)
+- [Ultimate Guide to Python Lists, Tuples, Arrays and Dictionaries For Beginners](https://towardsdatascience.com/ultimate-guide-to-lists-tuples-arrays-and-dictionaries-for-beginners-8d1497f9777c)
+- [11 Code Blocks for Complete EDA (Exploratory Data Analysis) in Python](https://towardsdatascience.com/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd)
+- [Pandas Melt, Stack and wide_to_long For Reshaping Columns into Rows](https://towardsdatascience.com/wide-to-long-data-how-and-when-to-use-pandas-melt-stack-and-wide-to-long-7c1e0f462a98)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[<img align="left" alt="suemnjeri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suemnjeri | Medium" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" />][medium]
+
+[linkedin]: https://www.linkedin.com/in/suemnjeri/
+[medium]: https://suemnjeri.medium.com/
 
 <!--
 **suemnjeri/suemnjeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
