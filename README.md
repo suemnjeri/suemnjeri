@@ -1,6 +1,6 @@
-<h1> Hi there 👋 I'm Susan! <br/><a href="https://github.com/suemnjeri">Python Developer, AWS Cloud Developer</a>, <a href="https://www.linkedin.com/in/suemnjeri/">Data Analyst</a>, <a href="https://suemnjeri.medium.com/">Blogger</a></h1>
+<h1> Hi there 👋 I'm Susan! <br/><a href="https://github.com/suemnjeri">Data Scientist, </a><a href="https://www.linkedin.com/in/suemnjeri/">AWS Cloud Developer</a>, <a href="https://suemnjeri.medium.com/">Blogger</a></h1>
 
-<h2>:construction_worker: Software Development Projects:</h2>
+<h2>:construction_worker: Data Science and Cloud Projects:</h2>
 
 
 - <b>Python Data Analysis</b>
