@@ -18,6 +18,7 @@
 
 - [Lambda Functions with Practical Examples in Python](https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8)
 - [10 Seaborn Visualization Plots for Multivariate Data Analysis in Python](https://towardsdatascience.com/10-must-know-seaborn-functions-for-multivariate-data-analysis-in-python-7ba94847b117)
+- [Regular Expressions (Regex) with Examples in Python and Pandas](https://towardsdatascience.com/regular-expressions-regex-with-examples-in-python-and-pandas-461228335670)
 - [How to Filter a Pandas DataFrame by a Partial String or Pattern](https://towardsdatascience.com/8-ways-to-filter-a-pandas-dataframe-by-a-partial-string-or-pattern-49f43279c50f)
 - [Ultimate Guide to Python Lists, Tuples, Arrays and Dictionaries For Beginners](https://towardsdatascience.com/ultimate-guide-to-lists-tuples-arrays-and-dictionaries-for-beginners-8d1497f9777c)
 - [11 Code Blocks for Complete EDA (Exploratory Data Analysis) in Python](https://towardsdatascience.com/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd)
