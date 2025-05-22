@@ -16,13 +16,13 @@
 
 <h2>:open_hands: My Popular Medium Blogs</h2>
 
-- [Lambda Functions with Practical Examples in Python](https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8)
-- [10 Seaborn Visualization Plots for Multivariate Data Analysis in Python](https://towardsdatascience.com/10-must-know-seaborn-functions-for-multivariate-data-analysis-in-python-7ba94847b117)
-- [Regular Expressions (Regex) with Examples in Python and Pandas](https://towardsdatascience.com/regular-expressions-regex-with-examples-in-python-and-pandas-461228335670)
-- [How to Filter a Pandas DataFrame by a Partial String or Pattern](https://towardsdatascience.com/8-ways-to-filter-a-pandas-dataframe-by-a-partial-string-or-pattern-49f43279c50f)
-- [Ultimate Guide to Python Lists, Tuples, Arrays and Dictionaries For Beginners](https://towardsdatascience.com/ultimate-guide-to-lists-tuples-arrays-and-dictionaries-for-beginners-8d1497f9777c)
-- [11 Code Blocks for Complete EDA (Exploratory Data Analysis) in Python](https://towardsdatascience.com/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd)
-- [Pandas Melt, Stack and wide_to_long For Reshaping Columns into Rows](https://towardsdatascience.com/wide-to-long-data-how-and-when-to-use-pandas-melt-stack-and-wide-to-long-7c1e0f462a98)
+- [Lambda Functions with Practical Examples in Python](https://medium.com/data-science/lambda-functions-with-practical-examples-in-python-45934f3653a8)
+- [10 Seaborn Visualization Plots for Multivariate Data Analysis in Python](https://medium.com/data-science/10-must-know-seaborn-functions-for-multivariate-data-analysis-in-python-7ba94847b117)
+- [Regular Expressions (Regex) with Examples in Python and Pandas](https://medium.com/data-science/regular-expressions-regex-with-examples-in-python-and-pandas-461228335670)
+- [How to Filter a Pandas DataFrame by a Partial String or Pattern](https://medium.com/data-science/8-ways-to-filter-a-pandas-dataframe-by-a-partial-string-or-pattern-49f43279c50f)
+- [Ultimate Guide to Python Lists, Tuples, Arrays and Dictionaries For Beginners](https://medium.com/gitconnected/the-python-tutorial-you-need-on-lists-tuples-dictionaries-and-sets-435bafb00a34)
+- [11 Code Blocks for Complete EDA (Exploratory Data Analysis) in Python](https://medium.com/data-science/11-simple-code-blocks-for-complete-exploratory-data-analysis-eda-67c2817f56cd)
+- [Pandas Melt, Stack and wide_to_long For Reshaping Columns into Rows](https://medium.com/data-science/wide-to-long-data-how-and-when-to-use-pandas-melt-stack-and-wide-to-long-7c1e0f462a98)
 
 <h2> 🤳 Connect with me:</h2>
 
